@@ -1,5 +1,8 @@
 # ejercicioETS
-Se solicita la creación de un proyecto que realice las siguientes tareas:
+
+## Alumno: Victor Manuel Cabrera Abreu
+
+## Se solicita la creación de un proyecto que realice las siguientes tareas:
 
     Creación de un proyecto que denominado ejercicioEts en Github.
     Creación de un issu descriptivo con la subida inicial del proyecto.
@@ -26,7 +29,7 @@ Se solicita la creación de un proyecto que realice las siguientes tareas:
     Gestión en Github. Se debe de crear un feature_1 vinculado al issu creado, con el fin de relacionar los cambios, subiendo todo el contenido a esta rama, y mezclarlo finalmente con la rama main. Recuerda utilizar commits descriptivos de la que se esta realizando.
     Genera un pequeño informe con capturas de código, la creación de ramas, generación de javadoc, y que incluya la url del repositorio donde se encuentra el código fuente en github. 
 
-Rúbrica:
+## Rúbrica:
 
     El proyecto debe de compilar correctamente para ser evaluado.
     Se debe generar javadoc.
